@@ -25,16 +25,4 @@ require_once "Modelos/inicioM.php";
 $plantilla = new Plantilla();
 $plantilla -> LlamarPlantilla();
 
-// Incluye tus controladores y modelos aquí
-require_once "Controladores/pacientesC.php";
-require_once "Modelos/pacientesM.php";
-
-// Obtén el estado de inicio de sesión y el tipo de usuario
-$estaLogueado = // tu lógica para verificar si el usuario ha iniciado sesión
-$esPaciente = // tu lógica para verificar si el usuario es un paciente
-
-// Comprueba si el usuario está en la página de inicio y si es un paciente
-if (!$estaLogueado || $esPaciente) {
-    echo '<script src="//code.tidio.co/gksx5ii1y8r9hhajx00mmwhtfvprohnp.js" async></script>';
-}
-?>
+echo '<script src="//code.tidio.co/gksx5ii1y8r9hhajx00mmwhtfvprohnp.js" async></script>';
