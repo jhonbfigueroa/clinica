@@ -1,13 +1,13 @@
 <section class="content">
 
   <center>
-    <h1><i>Seleccione como desea Ingresar al Sistema</i></h1><br>
+    <h1><i>Seleccione cómo desea Ingresar al Sistema</i></h1><br>
   </center>
       <!-- Small boxes (Stat box) -->
       <div class="row">
         <div class="col-lg-3 col-xs-6">
           <!-- small box -->
-          <div class="small-box" style="background-color: #F781D8; color: white;">
+          <div class="small-box" style="background-color: #336699; color: white;">
             <div class="inner">
               <h3>Secretaria</h3>
 
@@ -22,7 +22,7 @@
         <!-- ./col -->
         <div class="col-lg-3 col-xs-6">
           <!-- small box -->
-          <div class="small-box" style="background-color: #67badb; color: white;">
+          <div class="small-box" style="background-color: #009378; color: white;">
             <div class="inner">
               <h3>Doctor</h3>
 
@@ -37,7 +37,7 @@
         <!-- ./col -->
         <div class="col-lg-3 col-xs-6">
           <!-- small box -->
-          <div class="small-box" style="background-color: #4bc469; color: white;">
+          <div class="small-box" style="background-color: #6A397B; color: white;">
             <div class="inner">
               <h3>Paciente</h3>
 
@@ -52,7 +52,7 @@
         <!-- ./col -->
         <div class="col-lg-3 col-xs-6">
           <!-- small box -->
-          <div class="small-box bg-red">
+          <div class="small-box bg-red" style="background-color: #8B0000 !important; color: white !important;">
             <div class="inner">
               <h3>Administrador</h3>
 
